@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first repository.
 <br>
-Author - Anshu Kumar
+Author - Anshu Kumar (apna college)
